@@ -73,7 +73,7 @@ Screen Vision is designed to process your data securely without retaining it.
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/bullmeza/screen.vision.git
+git clone https://github.com/r-muresan/screen.vision.git
 cd screen.vision
 
 # Frontend
